@@ -1,6 +1,6 @@
 # Introduction to Data Science (LTAT.02.002)
 # Project: House Prices - Advanced Regression Techniques
-## Team: Hendrik Šuvalov, Raul Tölp
+## Group A11: Hendrik Šuvalov, Raul Tölp
 
 ### Description:
 
