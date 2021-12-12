@@ -11,3 +11,10 @@
 ### Goals:
 <li>what influences the house price
 <li>predict final price with Linear Regression or Random Forest model
+
+  
+  
+  ### Code:
+  
+  The code is mostly our sequential workflow and running it top-down should work, however, make sure to first run the "Functions" part in the bottom.
+  
